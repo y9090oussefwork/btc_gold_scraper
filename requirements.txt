@@ -4,3 +4,4 @@ selenium
 gspread
 openpyxl
 oauth2client
+numpy
